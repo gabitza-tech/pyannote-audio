@@ -1,0 +1,5 @@
+164.015 0.611 overlap
+768.090 0.645 overlap
+769.278 1.104 overlap
+1345.119 3.158 overlap
+1528.701 0.645 overlap

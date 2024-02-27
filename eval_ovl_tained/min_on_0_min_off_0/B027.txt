@@ -1,0 +1,10 @@
+14.066 0.170 overlap
+53.251 0.119 overlap
+351.197 0.424 overlap
+676.952 0.153 overlap
+677.190 0.034 overlap
+703.268 0.560 overlap
+801.095 0.187 overlap
+866.528 0.136 overlap
+1823.778 0.102 overlap
+1823.896 0.017 overlap
